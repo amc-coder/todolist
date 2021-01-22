@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hello GitHub!
 
 This is first file push to github repo from local workspace.
+=======
+Hello testing commit change.
+Modified.
+>>>>>>> branch1
